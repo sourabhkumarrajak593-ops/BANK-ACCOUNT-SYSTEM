@@ -19,10 +19,6 @@ class BankAccount:
     def check_balance(self):
         print("Current Balance: ", self.balance)
 
-    
-
-    
-
 
 account_number = input("Enter Bank Account Number: ")
 owner_name = input("Enter Owner Name: ")
